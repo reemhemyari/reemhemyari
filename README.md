@@ -4,8 +4,8 @@
 🫶🏼 I love biology, enjoy coding, and I'm curious to find ways they can overlap to make a difference
 
 ### ⬆️ What I'm Up To
-💻 Refreshing my Python + SQL skills 
-👩🏻‍💼 Interning as a Data Engineer for Winnow Solutions 🥕
+💻 Refreshing my Python + SQL skills  
+👩🏻‍💼 Interning as a Data Engineer for Winnow Solutions 🥕  
 🔍 Hunting for graduate or entry-level roles in Data and Tech
 
 <!--
